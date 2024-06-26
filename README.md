@@ -5,7 +5,7 @@
 </h1>
 
 - 🔭 Focusing on JavaScript Techs.😎
-- 🌱 Trying to become an expert in Frontend development ❤
+- 🌱 Trying to become an expert in software development ❤
 - 💻 I love exploring new tech stacks and building cool stuff.
 - 📰 Reading tech documentation whenever possible.
 - 🥅 2024 Goals: Learn CloudAI on AWS.
